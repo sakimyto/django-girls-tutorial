@@ -1,1 +1,1 @@
-web: gunicorn djangogirlstutorial.wsgi
+web: gunicorn django_girls_tutorial.wsgi
